@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @teod0036
-- 👀 I’m interested in mathmatics and programming, preferred language is c#
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on nothing (i cant program very well)
+- 👀 I’m interested in mathmatics and programming, preferred language is anything that's not an esolang
 - 📫 How to reach me: don't
 
 <!---
